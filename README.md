@@ -14,7 +14,7 @@ $ pip install opencv-python
 Now clone the repository
 
 Now you need to download YOLOv3 weights file, which you can download from YOLO official website(https://pjreddie.com/darknet/yolo/)
-you need to copy the weights file in same directory
+ and you need to copy the weights file in the same directory
 
 
 next, go to yolo_detection_images.py and add the absolute path of the cgf and weight files in the function detectObjects
