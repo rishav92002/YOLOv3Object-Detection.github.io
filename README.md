@@ -1,10 +1,4 @@
 # YOLO-v3-Object-Detection App
-Name: Rishav Kumar,
-
-College: IIT Delhi,
-
-Department: Engineering and computational mechanics
-
 
 This repository has the code for YOLO v3 Object detection web app, and is capable of fast object detection. Input can be given through images.
 
